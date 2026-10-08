@@ -163,6 +163,9 @@ dashboard.
 **Excel \| SQL \| MySQL \| Power BI \| Data Cleaning \| Data Analysis \|
 Business Intelligence \| Data Visualization \| KPI Analysis**
 
+## Power Bi Dashboard Screenshots
+Dashboard look like -> https://github.com/sonakshimathur07/OLA-/blob/main/OLA%20dashboard.png
+
 ## Author
 
 **Sonakshi Mathur**
